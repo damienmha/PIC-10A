@@ -1,3 +1,4 @@
 # PIC-10A
 
-My homework from Program in Computing 10A: Introduction to Programming
+This repository includes my homework from the course *Program in Computing 10A: Introduction to Programming*.
+PDFs with descriptions of each assignment are included.
