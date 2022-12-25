@@ -62,8 +62,8 @@ void StudentClub::add_member(Student* s)
 void StudentClub::print() const
 {
     cout << setw(20) << "Club Name: " << name << endl;
-    cout << setw(20) << "President Name: " << president << endl;
-    cout << setw(20) << "Treasurer Name: " << treasurer << endl;
+    cout << setw(20) << "President Name: " << president -> get_name() << endl;
+    cout << setw(20) << "Treasurer Name: " << treasurer -> get_name() << endl;
     cout << setw(20) << "Current members: " << member.size() << endl;
 }
 
